@@ -1,4 +1,4 @@
-1. Overview
+[1]. Overview
 - Project name : 隣の先生(이웃집 선생님)
 - Number of developers : 4
 - Development period : 22.02.03 ~ 22.03.02
@@ -7,7 +7,7 @@
 - Development environment : STS
 - Database : Oracle
 
-2. 요구사항 분석(My part)
+[2]. 요구사항 분석(My part)
 
 1. 회원가입
 - 비동기식 중복검사 / 비밀번호 암호화 저장
